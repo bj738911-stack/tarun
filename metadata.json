@@ -1,0 +1,6 @@
+{
+  "name": "ATTRXNWEAR",
+  "description": "From Young & Stylish to Classic & Timeless — Premium Men's Shirts for Every Generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
